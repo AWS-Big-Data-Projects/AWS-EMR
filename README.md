@@ -10,7 +10,7 @@ Analyzing Big Data with Amazon EMR
 
 
 
-## Steps
+## Stepsererere
 
 ### 1.Create an Amazon S3 Bucket
 For more information about creating a bucket, see Create a Bucket in the Amazon Simple Storage Service Getting Started Guide. After you create the bucket, choose it from the list and then choose Create folder, replace New folder with a name that meets the requirements, and then choose Save.
