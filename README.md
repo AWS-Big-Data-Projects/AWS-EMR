@@ -48,26 +48,13 @@ Choose the Name of the cluster.
 
 Under Security and access choose the Security groups for Master link.
 
-Edit security groups from EMR cluster status.
-Choose ElasticMapReduce-master from the list.
+Edit security groups from EMR cluster status.Choose ElasticMapReduce-master from the list.
 
 Choose Inbound, Edit.
 
 Find the rule with the following settings and choose the x icon to delete it:
 
-Type
-
-SSH
-
-Port
-
-22
-
-Source
-
-Custom 0.0.0.0/0
-
-Scroll to the bottom of the list of rules and choose Add Rule.
+Type SSH Port22Source Custom 0.0.0.0/0 Scroll to the bottom of the list of rules and choose Add Rule.
 
 For Type, select SSH.
 
