@@ -2,6 +2,7 @@
 
 Analyzing Big Data with Amazon EMR
 
+
 ![image](https://user-images.githubusercontent.com/48589838/77052931-91a99180-69f3-11ea-83dc-e9c47f0215f7.png)
 
 ![image](https://user-images.githubusercontent.com/48589838/77053019-b0a82380-69f3-11ea-89f0-f7b8a6d2a33a.png)
