@@ -1,5 +1,6 @@
 -- Summary: This sample shows you how to analyze CloudFront logs stored in S3 using Hive
 
+
 -- Create table using sample data in S3.  Note: you can replace this S3 path with your own.
 CREATE EXTERNAL TABLE IF NOT EXISTS cloudfront_logs (
   DateObject Date,
